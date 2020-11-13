@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    
+    
+    font-family: 'Poppins', sans-serif;
+    background: #051754;
+    color: white;
+
+}
+
+input{
+    background-color: white;
+}
+
+
+input[type=text],input[type=email]{
+
+    width: 15pc;
+}
+
+input[type=submit]{
+    background-color: orange;
+    color: black;
+    font-size: 1.5em;
+    height: 5pc;
+    border-radius: 15px;
+    border-color: white;
+}
+
+div{
+    border-bottom: rgb(0, 155, 142);
+    border-left: rgb(0, 155, 142);
+    border-right: rgb(0, 155, 142);
+    border-style: solid;
+    border-top: none;
+    border-width: 2cm;
+
+}
+
+h1,h2{
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+p{
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
